@@ -2,6 +2,9 @@
 
 Interactive Sales Dashboard created using Power BI and Excel for sales analysis and business insights.
 
+<img width="744" height="420" alt="Screenshot 2026-05-27 012951" src="https://github.com/user-attachments/assets/1a82792f-6ec8-4cb9-b79e-775c1fa7e543" />
+
+
 ## Tools Used
 - Microsoft Excel
 - Power BI
@@ -19,8 +22,6 @@ Interactive Sales Dashboard created using Power BI and Excel for sales analysis 
 - Monthly sales trend visualization
 - Product category analysis
 - Top performing products identification
-
-<img width="744" height="420" alt="Screenshot 2026-05-27 012951" src="https://github.com/user-attachments/assets/1a82792f-6ec8-4cb9-b79e-775c1fa7e543" />
 
 ## Project Files
 - Sales_Dashboard.pbix
